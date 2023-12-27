@@ -8,12 +8,15 @@
 <br><br>
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%202022-5C2D91?style=flat-square&logo=visualstudio)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-black?style=flat-square&logo=sublime-text)
+![Apache NetBeans](https://img.shields.io/badge/-Apache%20NetBeans-black?style=flat-square&logo=apache-netbeans)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
 ![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?style=flat-square&logo=notepad%2B%2B&logoColor=white)
 <br><br>
 ![C](https://shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp)
+![Python](https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
