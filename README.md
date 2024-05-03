@@ -38,7 +38,8 @@
 ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
 ![SoundCloud](https://img.shields.io/badge/-SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white)
 
-
+## 𝐕𝐢𝐞𝐰 𝐂𝐨𝐮𝐧𝐭𝐞𝐫
+![view](https://komarev.com/ghpvc/?username=zenjahid&color=blue)
 
 ## 🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀
 
