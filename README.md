@@ -23,12 +23,8 @@
 ![PHP](https://shields.io/badge/-PHP-00599C?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 <br><br>
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-<br><br>
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Steam Deck](https://img.shields.io/badge/-Steam_Deck-000000?style=flat-square&logo=steamdeck&logoColor=white)
 <br><br>
 ![IDA Pro](https://img.shields.io/badge/-IDA_Pro-000000?style=flat-square)
 ![Cheat Engine](https://img.shields.io/badge/-Cheat_Engine-FF5733?style=flat-square)
@@ -36,7 +32,7 @@
 ![DnsSpy](https://img.shields.io/badge/-DnsSpy-0078D4?style=flat-square)
 <br><br>
 ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
-![SoundCloud](https://img.shields.io/badge/-SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)
 
 ## 𝐕𝐢𝐞𝐰 𝐂𝐨𝐮𝐧𝐭𝐞𝐫
 ![view](https://komarev.com/ghpvc/?username=zenjahid&color=blue)
