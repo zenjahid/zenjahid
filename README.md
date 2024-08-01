@@ -1,3 +1,12 @@
+# Welcome to my GitHub Profile!
+
+<div align="center">
+  <img src="cat.webp" alt="Typing Cat">
+</div>
+
+# 💫 About Me:
+🐱‍💻 A cat loving, anime and tech enthusiast<br>🐱‍🐉 Tech stuffs interest me<br>🐱‍👓 Hard working for interested things
+
 # 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zenjahid&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zenjahid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
