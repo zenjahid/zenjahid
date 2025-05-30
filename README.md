@@ -6,4 +6,5 @@
 ## TODO LIST
 - [x] Make BMDC API.
 - [x] Make Auto Update Proxy Scraper.
-- [ ] Update BMDC API.
+- [x] Update BMDC API.
+- [ ] Deploy Project Codename : DarkGrid
